@@ -1,2 +1,2 @@
 # power
-power with sum
+power with sum.
